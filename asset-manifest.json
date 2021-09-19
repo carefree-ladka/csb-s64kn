@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://carefree-ladka.github.io/csb-s64kn/static/css/main.7bfdd4c5.chunk.css",
+    "main.js": "https://carefree-ladka.github.io/csb-s64kn/static/js/main.a1a4957b.chunk.js",
+    "main.js.map": "https://carefree-ladka.github.io/csb-s64kn/static/js/main.a1a4957b.chunk.js.map",
+    "runtime-main.js": "https://carefree-ladka.github.io/csb-s64kn/static/js/runtime-main.588b1eb4.js",
+    "runtime-main.js.map": "https://carefree-ladka.github.io/csb-s64kn/static/js/runtime-main.588b1eb4.js.map",
+    "static/js/2.39064f5a.chunk.js": "https://carefree-ladka.github.io/csb-s64kn/static/js/2.39064f5a.chunk.js",
+    "static/js/2.39064f5a.chunk.js.map": "https://carefree-ladka.github.io/csb-s64kn/static/js/2.39064f5a.chunk.js.map",
+    "index.html": "https://carefree-ladka.github.io/csb-s64kn/index.html",
+    "static/css/main.7bfdd4c5.chunk.css.map": "https://carefree-ladka.github.io/csb-s64kn/static/css/main.7bfdd4c5.chunk.css.map",
+    "static/js/2.39064f5a.chunk.js.LICENSE.txt": "https://carefree-ladka.github.io/csb-s64kn/static/js/2.39064f5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.588b1eb4.js",
+    "static/js/2.39064f5a.chunk.js",
+    "static/css/main.7bfdd4c5.chunk.css",
+    "static/js/main.a1a4957b.chunk.js"
+  ]
+}
